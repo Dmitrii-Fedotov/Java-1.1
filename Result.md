@@ -11,7 +11,7 @@
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались [Номера карт](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 * **VISA:**
   4716851755433953
   4539155612707764
